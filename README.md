@@ -2,4 +2,4 @@
 
 Este trabalho apresenta um modelo de banco de dados relacional para persistência de dados relativos às escalas de serviço do Corpo de Bombeiros Militar do Estado do Rio de Janeiro. A partir dos problemas observados no que diz respeito ao controle de carga horária e distribuição de militares nas diversas funções inerentes ao servi-ço de bombeiro militar, verificou-se a necessidade da implementação de um mecanismo que permitisse a geração de relatórios que pudessem ajudar nas tomadas de decisões inerentes à capacitação dos militares, bem como eventuais movimenta-ções e ajustes de equipes. O SGBD escolhido foi o MySQL, a fim de manter o alinhamento com outros bancos de dados já utilizados na Corporação. Com este trabalho, espera-se que os Comandantes tenham à sua disposição uma ferramenta capaz de fornecer dados estatísticos que lhes permita maior assertividade nas toma-das de decisões, especialmente relacionadas à composição das guarnições e à capacitação de pessoal.
 
-# Vale ressaltar que esse repositório não contém nenhuma informação pessoal de pessoas. 
+# Vale ressaltar que esse repositório não contém nenhuma informação pessoal de bombeiros. 
